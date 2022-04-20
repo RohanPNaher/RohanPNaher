@@ -42,7 +42,10 @@
   <hr>
   <div>
     <h3> Stats:</h3>
-      <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=RohanPNaher&hide=stars,issues&include_all_commits=true&count_private=true&show_icons=true&theme=react" />  </a>
-      <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanPNaher&layout=compact&theme=react" /></a> 
+      <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=RohanPNaher&hide=stars,issues&include_all_commits=true&count_private=true&show_icons=true&theme=outrun" />  </a>
+      <br>
+      <div> </div>
+      <br>
+      <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanPNaher&layout=compact&theme=outrun" /></a> 
   </div>
 </div>
